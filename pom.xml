@@ -41,7 +41,7 @@
         <springfox.version>2.7.0</springfox.version>
         <fastjson.version>1.2.46</fastjson.version>
         <okhttp.version>3.10.0</okhttp.version>
-        <validator.version>6.0.7.Final</validator.version>
+        <validator.version>6.0.20.Final</validator.version>
         <ehcache-core.version>2.6.11</ehcache-core.version>
         <zxing.version>3.3.2</zxing.version>
         <aliyun.oss.version>3.0.0</aliyun.oss.version>
