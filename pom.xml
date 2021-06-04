@@ -56,7 +56,7 @@
         <joda.version>2.9.9</joda.version>
         <commons-lang.version>2.6</commons-lang.version>
         <commons-collections4.version>4.2</commons-collections4.version>
-        <httpcomponents-common.version>4.5.5</httpcomponents-common.version>
+        <httpcomponents-common.version>4.5.13</httpcomponents-common.version>
         <httpcomponents-core.version>4.4.9</httpcomponents-core.version>
         <json-lib.version>2.4</json-lib.version>
         <qiniu.version>7.2.11</qiniu.version>
